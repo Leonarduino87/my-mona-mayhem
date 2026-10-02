@@ -62,6 +62,10 @@ The workshop supports two tracks — follow the one that matches your preferred 
 - **Font**: Press Start 2P (retro gaming font)
 - **API**: GitHub's contribution graph API
 
+## Astro App Development
+
+Run `npm run lint` to check the Astro app and its configuration for lint and code-style issues.
+
 ## Deployment Notes
 
 ### Current GitHub Pages setup
